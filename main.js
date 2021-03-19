@@ -10,10 +10,10 @@ client.on('ready', () => {
             assets: {
                 large_image: 'img'
             },
-            details: 'Join for daily Giveaways',
-            state: 'And Gamenights!',
+            details: 'join this server',
+            state: 'dickheads',
             buttons: [
-                { label: 'Join Now!', url: 'https://discord.gg/yM3aARfQck/' }
+                { label: 'Click me!', url: 'https://discord.gg/RJB9qDrb8m' }
             ]
         }
     });
