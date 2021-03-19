@@ -8,7 +8,7 @@ client.on('ready', () => {
         pid: process.pid,
         activity: {
             assets: {
-                large_image: 'img'
+                large_image: 'lolas_bakery'
             },
             details: 'join this server',
             state: 'dickheads',
